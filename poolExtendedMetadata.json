@@ -1,0 +1,27 @@
+"info": {
+        "url_png_icon_64x64": "https://mydp3.com/wp-content/uploads/2022/07/icononly_transparent_nobuffer.png",
+        "url_png_logo": "https://mydp3.com/wp-content/uploads/2022/07/fulllogo_transparent_nobuffer.png",
+        "location": "Prior Lake, Minnesota, USA",
+        "social": {
+            "twitter_handle": "@FrankMyDP3",
+            "telegram_handle": "@frankmydp3",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "FrankMyDP3"
+        },
+        "company": {
+            "name": "MyDP3 LLC",
+            "addr": "6265 Broadview Dr",
+            "city": "Prior Lake",
+	    "state": "Minnesota",
+            "country": "USA",
+            "company_id": "1318544300026"
+        },
+        "about": {
+            "me": "Frank Crusing",
+            "server": "Acer Predator i7 - 32GB, on 1GB up/down network.",
+            "company": "My Digital Personal Privacy Protection"
+        }
+    }
