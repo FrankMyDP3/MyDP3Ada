@@ -10,7 +10,8 @@
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
-            "github_handle": "FrankMyDP3"
+            "github_handle": "FrankMyDP3",
+	    "verification": "2dba9f67a593a57e43"
         },
         "company": {
             "name": "MyDP3 LLC",
